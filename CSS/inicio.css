@@ -1,0 +1,15 @@
+*{padding:o;
+margin:0;
+text-decoration: none;
+list-style: none;}
+body{background-color: rgb(24, 24, 112); color: aliceblue;}
+.lista1{color: aliceblue; font-size: 12px;}
+.uno{color: aqua; display:inline-block; padding-right: 10px; font-family: roboto; sans-serif;}
+.enlace{color: deepskyblue;}
+.a2{max-width: 100%; margin: auto auto;  display:flex;justify-content:center;}
+.img2{width: 70px;}
+h1{max-width: 100%; height: 30px; margin: 10px auto; display:flex; justify-content:center}
+.zero{justify-content: space-between; background-color:  rgb(8, 8, 20); display:flex; align-items: center;}
+h2{margin-top: 15px;}
+.a3{margin-top: 15px; margin-bottom: 10px; height: 100px; }
+img, video{margin-top: 15px; margin-bottom: 15px;}
