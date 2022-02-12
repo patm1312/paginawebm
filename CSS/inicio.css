@@ -6,10 +6,90 @@ body{background-color: rgb(24, 24, 112); color: aliceblue;}
 .lista1{color: aliceblue; font-size: 12px;}
 .uno{color: aqua; display:inline-block; padding-right: 10px; font-family: roboto; sans-serif;}
 .enlace{color: deepskyblue;}
-.a2{max-width: 100%; margin: auto auto;  display:flex;justify-content:center;}
+.a2{
+    max-width: 100%;
+       width: 1000px;
+       background-color: aliceblue;
+       border-radius: 30px;
+       overflow: hidden;
+       margin: auto auto;
+    }
+
 .img2{width: 70px;}
-h1{max-width: 100%; height: 30px; margin: 10px auto; display:flex; justify-content:center}
-.zero{justify-content: space-between; background-color:  rgb(8, 8, 20); display:flex; align-items: center;}
+.zero{justify-content: space-between; background-color:  rgb(8, 8, 20); display:flex; align-items: center; height: 60px;}
 h2{margin-top: 15px;}
-.a3{margin-top: 15px; margin-bottom: 10px; height: 100px; }
-img, video{margin-top: 15px; margin-bottom: 15px;}
+video{
+     margin-top: 15px;
+     margin-bottom: 15px;
+     max-width: 100%;
+    }
+b1{ display: block; max-width: 100%;}
+.a6{
+     display:block;
+     max-width: 50%;
+     margin-right: 5px;
+    }
+.a7{max-width: 100%; margin-bottom: 15px;}
+h1{
+    margin:20px auto;
+    height: 30px;
+    width: 700px;
+    max-width: 100%;
+    justify-content:center;
+    display: flex;
+}
+.a8{margin:10px 0px
+}
+.a4{display: flex;
+    align-items: center;
+    }
+.a3{
+    display:inline-block;
+    height:300px;
+    background-color: rgb(31, 31, 49);
+    border: 5px solid rgb(75, 41, 75);
+    border-radius: 30px;
+    padding: 10px;
+    overflow: scroll;
+}    
+.b2{
+    display: inline-block;
+    max-width: 80%;
+    height: 200px;
+    overflow: scroll;
+    background-color: rgb(31, 31, 49);
+    border-radius: 30px;
+    padding: 10px;
+    border: 5px solid rgb(100, 82, 57);
+}
+.a9{
+    display: flex;
+    align-items: center;
+}
+.b4{margin-bottom: 15px;}
+footer{
+    background-color: rgb(8, 8, 20);
+    displayflex;
+    justifycontent: center;
+}
+.b6,{
+    margin: 10px 6px;
+}
+.b5, .b8, .c1{
+    display: inline-block;
+    margin: 0 5px;
+}
+.univ{
+    display: flex;
+    justify-content: center;
+}
+.b6, .b9, .c3{
+    color: burlywood;
+    font-family: sans-serif;
+}
+.c4, .c5{
+    justify-content:center;
+    display: flex;
+    color: rgb(133, 16, 16);
+    font-size: 10px;
+}
