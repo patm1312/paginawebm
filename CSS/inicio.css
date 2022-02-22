@@ -4,7 +4,7 @@ text-decoration: none;
 list-style: none;}
 body{background-color: rgb(24, 24, 112); color: aliceblue;}
 .lista1{color: aliceblue; font-size: 12px;}
-.uno{color: aqua; display:inline-block; padding-right: 10px; font-family: roboto; sans-serif;}
+.uno{color: aqua; display:inline-block; padding-right: 10px;}
 .enlace{color: deepskyblue;}
 .a2{
     max-width: 100%;
@@ -23,7 +23,6 @@ video{
      margin-bottom: 15px;
      max-width: 100%;
     }
-b1{ display: block; max-width: 100%;}
 .a6{
      display:block;
      max-width: 50%;
@@ -70,7 +69,7 @@ h1{
 footer{
     background-color: #080814;
 }
-.b6,{
+.b6{
     margin: 10px 6px;
 }
 .b5, .b8, .c1{
@@ -103,8 +102,7 @@ footer{
     text-align: center;
 }
 .d2{
-    margin-left: 20px;
-    
+    margin-left: 20px; 
 }
 .e0{
     text-align: center;
@@ -120,13 +118,11 @@ footer{
     margin-bottom: 15px;
     height: 300px;
     overflow: auto;
-
 }
 .e3{
 display: flex;
 }
-
-table, .e7{
+.e7{
     background-color: rgb(43, 145, 145);
     text-align: center;
     color: #080814;
@@ -135,10 +131,18 @@ table, .e7{
     margin-left: auto;
     margin-right: auto;
 }
+.tabla2{
+        background-color: rgb(43, 145, 145);
+        text-align: center;
+        color: #080814;
+        width: 500px;
+        border-radius: 20px;
+        margin-left: auto;
+        margin-right: auto;
+    }
 .e7{
     text-align: left;
 }
-
 td{
     background-color: rgb(70, 177, 177);
 }
@@ -149,4 +153,84 @@ q{
 }
 caption{
     color: aqua;
+}
+.form{
+    background-color: rgb(118, 110, 167);
+    margin: 10px 10px;
+    height:auto;
+    max-width: 360px;
+    color: darkorange;
+    font-size: 20px;
+    padding-bottom: 15px;
+    display:inline-block;
+}
+.formu{
+    width: 50%;
+}
+.for1, .forb, textarea{
+    color: rgba(0, 0, 0, 0.603);
+    font-size: initial;
+    width: 15em;
+    margin-left: 30px;
+}
+.forb{
+    height: 30px;
+    margin-bottom: 10px;
+    box-shadow: 3px 3px 3px rgb(46, 68, 109);
+}
+textarea{
+    margin-left:30px;
+    box-shadow: 3px 3px 3px rgb(46, 68, 109)
+}
+.span{
+    padding-top: 10px;
+    margin-left: 15px;
+    margin-right: 15px;
+}
+.buton{
+    display: block;
+    background-color: rgb(72, 137, 197);
+    height: 40px;
+    width: 70px;
+    margin-left: 280px;
+    color: aliceblue;
+    margin-right: 10px;
+}
+.content{
+    background-color: coral;
+    height: auto;
+    display: flex;
+}
+.td, .td1{
+    background-color: rgb(24, 24, 112);
+    padding: 10px;
+}
+.dat{
+    width: auto;
+    max-width: 50%;
+    min-width: 500px;
+    margin: 15px 15px;
+    height: auto;
+}
+.td1{
+    padding-left: 30px;
+}
+.way{
+    width: auto;
+    height: auto;
+}
+.ed1{
+    width: 35px;
+    height: 35px;
+    margin-right: 10px;
+}
+.pd1{
+    width: 41px;
+    height: 31px;
+    margin-right: 10px;
+}
+.unic{
+    display: inline-block;
+    max-width: 50%;
+    min-width: 500px;
 }
