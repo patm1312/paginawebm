@@ -173,11 +173,6 @@ caption{
     width: 15em;
     margin-left: 30px;
 }
-.forb{
-    height: 30px;
-    margin-bottom: 10px;
-    box-shadow: 3px 3px 3px rgb(46, 68, 109);
-}
 textarea{
     margin-left:30px;
     box-shadow: 3px 3px 3px rgb(46, 68, 109)
@@ -218,6 +213,13 @@ textarea{
 .way{
     width: auto;
     height: auto;
+    text-align:center;
+}
+.forb{
+    height: 30px;
+    margin-bottom: 10px;
+    box-shadow: 3px 3px 3px rgb(46, 68, 109);
+    text-align: left;
 }
 .ed1{
     width: 35px;
@@ -233,4 +235,8 @@ textarea{
     display: inline-block;
     max-width: 50%;
     min-width: 500px;
+    margin-top: auto;
+}
+.par{
+    margin: 20px;
 }
