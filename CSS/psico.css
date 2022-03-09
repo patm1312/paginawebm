@@ -1,0 +1,161 @@
+@font-face{
+    font-family: "mont";
+    src: url(../assets/images/fuentes/EvoleyNotes.ttf);
+}
+
+.f1{
+    text-align: center;
+    margin-bottom: 20px;
+    height: 80px;
+}
+.sing{
+   margin: 15px;
+   font-family: "mont";
+   font-size: 40px;
+   letter-spacing: 1px;
+}
+.imgb, .mg{
+    max-width: 100%;
+    width: 300px;
+    height: 300px;
+    margin: 20px;
+}
+.pag{
+    display: inline-block;
+    width: 50%;
+    min-width: 350px;
+    font-family: "mont";
+    font-size: 30px;
+    letter-spacing: 1px;
+    text-shadow: 1px 1px 3px rgb(74, 97, 199);
+}
+.pag1, .pa{
+    width: 70%;
+    min-width: 450px;
+    font-family: "mont";
+    font-size: 30px;
+    letter-spacing: 1px;
+    text-shadow: 1px 1px 3px rgb(74, 97, 199);
+    display: inline-block;
+}
+.pac{
+    font-family: "mont";
+    font-size: 30px;
+    letter-spacing: 1px;
+    text-shadow: 1px 1px 3px rgb(74, 97, 199);
+}
+iframe{
+    width: 400px;
+    height: 300px;
+    margin: 20px;
+}
+.x2{
+    background-color: #0b8199;
+    text-align: center;
+    margin-right: auto;
+    margin-left: auto;
+    max-width: 90%;
+}
+.x3, .x6, .zt{
+    height: auto;
+    width: 70%;
+    min-width: 400px;
+    display: inline-block;
+    background-color: #5bc4d6;
+    margin: 10px 5px ;
+}
+.x4{
+    max-width: 90%;
+    background-color: #0998b4;
+    text-align: center;
+    margin-right: auto;
+    margin-left: auto;
+}
+.h4{
+    color: #0998b4 ;
+}
+.imgb{
+    width: 200px;
+    height: 200px;
+}
+.x5{
+    width: 40%;
+}
+.yer{
+    width: 200px;
+    height: 200px;
+}
+.x6{
+    width: 90%;
+    margin-bottom: 15px;
+}
+.x8{
+    text-align: end;
+    padding: 5px;
+}
+.x9{
+    background-color: #25adc9;
+    width: 80%;
+    margin-right: auto;
+    margin-left: auto;
+}
+.dib{
+    width: 90%;
+    margin-right: auto;
+    margin-left: auto;
+}
+.dit{
+    width: 90%;
+    margin-right: auto;
+    margin-left: auto;
+    margin-bottom: 20px;
+}
+.imgc{
+    width: 300px;
+    height: 300px;
+    margin: 15px 0px;
+}
+.pagk{
+    display: inline-block;
+}
+.conten{
+    width: 70%;
+    min-width: 400px;
+    display: inline-block;
+    height: 300px;
+    overflow: auto;
+    margin: 15px 0px;
+}
+.cont{
+    margin: 0px 15px;
+    text-align:  center;
+    background-color: #334ead;
+}
+.zt{
+    width: 90%;
+}
+.xx2{
+    background-color: #0b8199;
+    text-align: center;
+    margin-right: auto;
+    margin-left: auto;
+    max-width: 90%;
+    height: auto;
+    margin-bottom: 15px;
+}
+.tablan{
+    width: 70%;
+    height: auto;
+    background-color: #B33030;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+.trr{
+    background-color: #A1B57D;
+    padding: 10px 10px;
+}
+.pv{
+    margin-top: 30px;
+}
